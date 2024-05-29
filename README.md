@@ -1,6 +1,6 @@
 # vk_onlineStorePrototype
 
-Тестовое задание на стажировку по вакансии [«PHP-разработчик»](https://internship.vk.company/vacancy/842) в команду СМБ.
+Тестовое задание на стажировку по вакансиям [«PHP-разработчик»](https://internship.vk.company/vacancy/842) и [«Бэкенд-разработчик»](https://internship.vk.company/vacancy/887) в команду СМБ.
 
 ## Схема системы
 
